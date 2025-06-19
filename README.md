@@ -83,12 +83,6 @@ The dataset contains fields such as:
 
 ---
 
-## 📷 Sample Visualizations
-
-*(Add screenshots or charts here to showcase your results!)*
-
----
-
 ## 📌 Future Enhancements
 
 - Build interactive dashboards with Plotly or Streamlit
